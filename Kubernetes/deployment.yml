@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: netflix-app
-        image: namagiri/netflix:latest
+        image: namagiri/netflix:latest1
         ports:
         - containerPort: 80
